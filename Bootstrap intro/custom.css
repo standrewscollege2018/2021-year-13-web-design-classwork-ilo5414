@@ -1,0 +1,18 @@
+/* this is the custom style sheet */
+
+.bg-darkblue {
+  background-color: #120866;
+}
+.text-darkblue {
+  color: #120966;
+}
+
+
+/* media queary to decrease font size of the heading */
+
+@media screen and (max-width: 768px) {
+  .display-1 {
+    font-size: 40px;
+  }
+
+}
